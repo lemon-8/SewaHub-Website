@@ -37,6 +37,7 @@ p {
 }
 .sewahub-container .landing-image {
 	width: 40%;
+	align-self: center;
 }
 .navbar .navbar-image {
 	height: 75%;
